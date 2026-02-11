@@ -1,0 +1,6 @@
+Roadmap
+[ ] Support for external CLI arguments for headless server use.
+
+[ ] Integration with TMDB API for real-time title validation.
+
+[ ] Custom regex patterns for user-defined cleaning.
